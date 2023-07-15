@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+
+}
+
+/* .bg { */
+    /* background-image: url(images/bg.jpg); */
+    /* background-repeat: repeat-x;
+    background-color: #cbcbcb;
+
+} */
+
+.text-secondary {
+    background-color: #cbcbcb;
+}
+
+/* .row {
+    --bs-gutter-x: -33.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+} */
